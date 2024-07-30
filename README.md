@@ -19,7 +19,7 @@ This project implements a line-following robot using the LEGO EV3 Mindstorms kit
 2. Clone this repository to your local machine.
 
     ```sh
-    git clone https://github.com/singhadwika/line-follower-robot.git
+    git clone https://github.com/singhadwika/ev3_pathfinder.git
     ```
 
 3. Navigate to the project directory.
