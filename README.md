@@ -1,6 +1,4 @@
 # ev3_pathfinder
-# Line Follower Robot with Obstacle Avoidance
-
 This project implements a line-following robot using the LEGO EV3 Mindstorms kit. The robot can follow a black line and navigate around obstacles.
 
 ## Features
