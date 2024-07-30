@@ -25,7 +25,7 @@ This project implements a line-following robot using the LEGO EV3 Mindstorms kit
 3. Navigate to the project directory.
 
     ```sh
-    cd line-follower-robot
+    cd ev3_pathfinder
     ```
 
 4. Upload the Python script to your LEGO EV3 brick.
